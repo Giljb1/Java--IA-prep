@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=TicketWin
+comment0.text=\n\ Write\ a\ description\ of\ JavaFX\ class\ TicketWin\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=max
+comment1.target=TicketWin(int)
+comment2.params=
+comment2.target=void\ display()
+comment3.params=event
+comment3.target=void\ buttonClick(javafx.event.ActionEvent)
+comment3.text=\n\ This\ will\ be\ executed\ when\ the\ button\ is\ clicked\n\ It\ increments\ the\ count\ by\ 1\n
+numComments=4

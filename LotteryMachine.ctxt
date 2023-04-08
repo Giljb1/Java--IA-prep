@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=LotteryMachine
+comment1.params=max
+comment1.target=LotteryMachine(int)
+comment10.params=max
+comment10.target=int\ randNum(int)
+comment10.text=\n\ \ \ \ \ Generate\ a\ random\ number\ between\ 0\ (inclusive)\ to\ max\ value(exclusive)\n\ \ \ \ \ @max\ \ the\ maximum\ value(exclusive)\n
+comment2.params=
+comment2.target=int\ getMax()
+comment3.params=newMax
+comment3.target=void\ setMax(int)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=
+comment5.target=int[]\ createLotteryTicket()
+comment6.params=
+comment6.target=int[]\ createWinningCombo()
+comment7.params=ticket\ winningCombo
+comment7.target=void\ processTicket(int[],\ int[])
+comment8.params=count
+comment8.target=java.lang.String\ getReward(int)
+comment9.params=a
+comment9.target=int[]\ removeDuplicates(int[])
+numComments=11
